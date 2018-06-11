@@ -9,7 +9,6 @@
  The circuit:
  * Any serial device attached to Serial port 1
  * Serial monitor open on Serial port 0:
-
  created 30 Dec. 2008
  modified 20 May 2012
  by Tom Igoe & Jed Roach
